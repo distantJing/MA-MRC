@@ -4,7 +4,7 @@ This repository provides the official PyTorch implementation of the research pap
 
 When formatting our code, we adjusted some experimental settings and found some new changes in experimental results, which did not affect the conclusion and content of the paper. 
 
-We have updated the experimental results and uploaded a new version of paper on [arxiv]().
+We have updated the experimental results and uploaded a new version of paper on [arxiv](http://arxiv.org/abs/2208.05217).
 
 The new main experimental results are as follows:
 ![](new_results.jpg)
